@@ -1,0 +1,10 @@
+﻿  project2.cpp
+C:\Users\轨道痕迹\source\repos\project2\project2\project2.cpp(26,5747): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\轨道痕迹\source\repos\project2\project2\project2.cpp(27,225): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\轨道痕迹\source\repos\project2\project2\project2.cpp(28,65618): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\轨道痕迹\source\repos\project2\project2\project2.cpp(29,430): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\轨道痕迹\source\repos\project2\project2\project2.cpp(30,135702): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\轨道痕迹\source\repos\project2\project2\project2.cpp(31,448): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\轨道痕迹\source\repos\project2\project2\project2.cpp(32,57345): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\轨道痕迹\source\repos\project2\project2\project2.cpp(33,53): warning C4305: “初始化”: 从“double”到“float”截断
+  project2.vcxproj -> C:\Users\轨道痕迹\source\repos\project2\x64\Debug\project2.exe
